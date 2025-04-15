@@ -52,8 +52,7 @@ FlagellaAssignment/
 └── README.md
 </pre>
 
-Link: 
-
+Link: https://github.com/RethabileBridgetVelelo/ST10461612_WebDevelopmentPart1/tree/main/WebDevPart1AssignmentFlagellar
 
 <h2>📌 Notes</h2>
 <ul>
